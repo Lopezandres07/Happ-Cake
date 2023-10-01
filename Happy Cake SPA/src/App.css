@@ -1,0 +1,14 @@
+.img-not-found {
+  height: 80vh;
+}
+
+.home {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.input-size {
+  width: 65%;
+}
